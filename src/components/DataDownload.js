@@ -9,8 +9,8 @@ function DataDownload() {
         <ul>
           <li>Click on the image and validate that an image called <strong>react-logo</strong> is downloaded</li>
         </ul>
-        <a href="/logo512.png" download="react-logo">
-          <img src="/logo512.png" alt="logo" />
+        <a href="./logo512.png" download="react-logo">
+          <img src="./logo512.png" alt="logo" />
         </a>
       </Card.Body>
     </Card>
