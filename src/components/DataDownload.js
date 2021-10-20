@@ -1,15 +1,17 @@
-import { Card, Button } from 'react-bootstrap'
+import { Card } from 'react-bootstrap'
 
 function DataDownload() {
   return <div>
     <Card>
-      <Card.Header>Featured</Card.Header>
+      <Card.Header>Data Download</Card.Header>
       <Card.Body>
-        <Card.Title>Special title treatment</Card.Title>
-        <Card.Text>
-          With supporting text below as a natural lead-in to additional content.
-        </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        <Card.Title>Data Download</Card.Title>
+        <ul>
+          <li>Click on the image and validate that an image called <strong>react-logo</strong> is downloaded</li>
+        </ul>
+        <a href="/logo512.png" download="react-logo">
+          <img src="/logo512.png" alt="logo" />
+        </a>
       </Card.Body>
     </Card>
   </div>;

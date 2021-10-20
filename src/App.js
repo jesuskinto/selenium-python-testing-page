@@ -13,9 +13,7 @@ import Home from './components/Home'
 
 
 import {
-  Card,
-  Button,
-  ButtonGroup
+  Card, Button
 } from 'react-bootstrap'
 
 import {
@@ -31,21 +29,9 @@ function App() {
     <Router>
       <div>
         <Card body>
-          <nav>
-            <ButtonGroup aria-label="Basic example">
-              <Link to="/"><Button variant="secondary">home</Button></Link>
-              <Link to="/simple-form"><Button variant="secondary">simple-form</Button></Link>
-              <Link to="/checkbox"><Button variant="secondary">checkbox</Button></Link>
-              <Link to="/javascript-alert"><Button variant="secondary">javascript-alert</Button></Link>
-              <Link to="/bootstrap-modal"><Button variant="secondary">bootstrap-modal</Button></Link>
-              <Link to="/jquery-date"><Button variant="secondary">jquery-date</Button></Link>
-              <Link to="/table-sort-and-search"><Button variant="secondary">table-sort-and-search</Button></Link>
-              <Link to="/data-download"><Button variant="secondary">data-download</Button></Link>
-              <Link to="/data-loading"><Button variant="secondary">data-loading</Button></Link>
-              <Link to="/data-drag-and-drop"><Button variant="secondary">data-drag-and-drop</Button></Link>
-            </ButtonGroup>
-          </nav>
-          <hr />
+          <Link to="/"><Button size="sm">Go home</Button></Link>
+          <br />
+          <br />
           <Switch>
             <Route path="/simple-form">
               <SimpleForm />

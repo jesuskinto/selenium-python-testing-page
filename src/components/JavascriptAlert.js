@@ -1,15 +1,17 @@
 import { Card, Button } from 'react-bootstrap'
 
 function JavascriptAlert() {
+  const openSimpleAlert = () => alert("Hello world");
+
   return <div>
     <Card>
-      <Card.Header>Featured</Card.Header>
+      <Card.Header>JavascriptAlert</Card.Header>
       <Card.Body>
-        <Card.Title>Special title treatment</Card.Title>
+        <Card.Title>Simple Alert</Card.Title>
         <Card.Text>
-          With supporting text below as a natural lead-in to additional content.
+          Open the alert and verify the message matches <strong>Hello world</strong>
         </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        <Button variant="primary" onClick={openSimpleAlert} >Click</Button>
       </Card.Body>
     </Card>
   </div>;

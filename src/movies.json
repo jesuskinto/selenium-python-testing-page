@@ -1,0 +1,1252 @@
+[
+    {
+        "id": 1,
+        "title": "Beetlejuice",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "The Cotton Club",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Music"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "The Shawshank Redemption",
+        "genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Crocodile Dundee",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Valkyrie",
+        "genres": [
+            "Drama",
+            "History",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Ratatouille",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "City of God",
+        "genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Memento",
+        "genres": [
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "The Intouchables",
+        "genres": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Stardust",
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Apocalypto",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Taxi Driver",
+        "genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "No Country for Old Men",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Planet 51",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Looper",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Corpse Bride",
+        "genres": [
+            "Animation",
+            "Drama",
+            "Family"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "The Third Man",
+        "genres": [
+            "Film-Noir",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "The Beach",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Scarface",
+        "genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Sid and Nancy",
+        "genres": [
+            "Biography",
+            "Drama",
+            "Music"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Black Swan",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Inception",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "The Deer Hunter",
+        "genres": [
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Chasing Amy",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Django Unchained",
+        "genres": [
+            "Drama",
+            "Western"
+        ]
+    },
+    {
+        "id": 26,
+        "title": "The Silence of the Lambs",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 27,
+        "title": "American Beauty",
+        "genres": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Snatch",
+        "genres": [
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Midnight Express",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Pulp Fiction",
+        "genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "genres": [
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "id": 32,
+        "title": "Lucky Number Slevin",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Rear Window",
+        "genres": [
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Pan's Labyrinth",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "War"
+        ]
+    },
+    {
+        "id": 35,
+        "title": "Shutter Island",
+        "genres": [
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Reservoir Dogs",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 37,
+        "title": "The Shining",
+        "genres": [
+            "Drama",
+            "Horror"
+        ]
+    },
+    {
+        "id": 38,
+        "title": "Midnight in Paris",
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
+        ]
+    },
+    {
+        "id": 39,
+        "title": "Les Misérables",
+        "genres": [
+            "Drama",
+            "Musical",
+            "Romance"
+        ]
+    },
+    {
+        "id": 40,
+        "title": "L.A. Confidential",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "id": 41,
+        "title": "Moneyball",
+        "genres": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ]
+    },
+    {
+        "id": 42,
+        "title": "The Hangover",
+        "genres": [
+            "Comedy"
+        ]
+    },
+    {
+        "id": 43,
+        "title": "The Great Beauty",
+        "genres": [
+            "Drama"
+        ]
+    },
+    {
+        "id": 44,
+        "title": "Gran Torino",
+        "genres": [
+            "Drama"
+        ]
+    },
+    {
+        "id": 45,
+        "title": "Mary and Max",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "id": 46,
+        "title": "Flight",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 47,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "genres": [
+            "Drama"
+        ]
+    },
+    {
+        "id": 48,
+        "title": "Requiem for a Dream",
+        "genres": [
+            "Drama"
+        ]
+    },
+    {
+        "id": 49,
+        "title": "The Truman Show",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "id": 50,
+        "title": "The Artist",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": 51,
+        "title": "Forrest Gump",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "id": 52,
+        "title": "The Hobbit: The Desolation of Smaug",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 53,
+        "title": "Vicky Cristina Barcelona",
+        "genres": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": 54,
+        "title": "Slumdog Millionaire",
+        "genres": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": 55,
+        "title": "Lost in Translation",
+        "genres": [
+            "Drama"
+        ]
+    },
+    {
+        "id": 56,
+        "title": "Match Point",
+        "genres": [
+            "Drama",
+            "Romance",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 57,
+        "title": "Psycho",
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 58,
+        "title": "North by Northwest",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ]
+    },
+    {
+        "id": 59,
+        "title": "Madagascar: Escape 2 Africa",
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 60,
+        "title": "Despicable Me 2",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 61,
+        "title": "Downfall",
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 62,
+        "title": "Madagascar",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 63,
+        "title": "Madagascar 3: Europe's Most Wanted",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 64,
+        "title": "God Bless America",
+        "genres": [
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "id": 65,
+        "title": "The Social Network",
+        "genres": [
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "id": 66,
+        "title": "The Pianist",
+        "genres": [
+            "Biography",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "id": 67,
+        "title": "Alive",
+        "genres": [
+            "Adventure",
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "id": 68,
+        "title": "Casablanca",
+        "genres": [
+            "Drama",
+            "Romance",
+            "War"
+        ]
+    },
+    {
+        "id": 69,
+        "title": "American Gangster",
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": 70,
+        "title": "Catch Me If You Can",
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": 71,
+        "title": "American History X",
+        "genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": 72,
+        "title": "Casino",
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": 73,
+        "title": "Pirates of the Caribbean: At World's End",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 74,
+        "title": "Pirates of the Caribbean: On Stranger Tides",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 75,
+        "title": "Crash",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 76,
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 77,
+        "title": "The Lord of the Rings: The Return of the King",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "id": 78,
+        "title": "Oldboy",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 79,
+        "title": "Chocolat",
+        "genres": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": 80,
+        "title": "Casino Royale",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 81,
+        "title": "WALL·E",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ]
+    },
+    {
+        "id": 82,
+        "title": "The Wolf of Wall Street",
+        "genres": [
+            "Biography",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "id": 83,
+        "title": "Hellboy II: The Golden Army",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 84,
+        "title": "Sunset Boulevard",
+        "genres": [
+            "Drama",
+            "Film-Noir",
+            "Romance"
+        ]
+    },
+    {
+        "id": 85,
+        "title": "I-See-You.Com",
+        "genres": [
+            "Comedy"
+        ]
+    },
+    {
+        "id": 86,
+        "title": "The Grand Budapest Hotel",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "id": 87,
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "id": 88,
+        "title": "Once Upon a Time in America",
+        "genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": 89,
+        "title": "Oblivion",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Mystery"
+        ]
+    },
+    {
+        "id": 90,
+        "title": "V for Vendetta",
+        "genres": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 91,
+        "title": "Gattaca",
+        "genres": [
+            "Drama",
+            "Sci-Fi",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 92,
+        "title": "Silver Linings Playbook",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": 93,
+        "title": "Alice in Wonderland",
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 94,
+        "title": "Gandhi",
+        "genres": [
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "id": 95,
+        "title": "Pacific Rim",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "id": 96,
+        "title": "Kiss Kiss Bang Bang",
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Mystery"
+        ]
+    },
+    {
+        "id": 97,
+        "title": "The Quiet American",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Romance"
+        ]
+    },
+    {
+        "id": 98,
+        "title": "Cloud Atlas",
+        "genres": [
+            "Drama",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "id": 99,
+        "title": "The Impossible",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 100,
+        "title": "All Quiet on the Western Front",
+        "genres": [
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "id": 101,
+        "title": "The English Patient",
+        "genres": [
+            "Drama",
+            "Romance",
+            "War"
+        ]
+    },
+    {
+        "id": 102,
+        "title": "Dallas Buyers Club",
+        "genres": [
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "id": 103,
+        "title": "Frida",
+        "genres": [
+            "Biography",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": 104,
+        "title": "Before Sunrise",
+        "genres": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": 105,
+        "title": "The Rum Diary",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "id": 106,
+        "title": "The Last Samurai",
+        "genres": [
+            "Action",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 107,
+        "title": "Chinatown",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 108,
+        "title": "Calvary",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "id": 109,
+        "title": "Before Sunset",
+        "genres": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": 110,
+        "title": "Spirited Away",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ]
+    },
+    {
+        "id": 111,
+        "title": "Indochine",
+        "genres": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": 112,
+        "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": 113,
+        "title": "Boyhood",
+        "genres": [
+            "Drama"
+        ]
+    },
+    {
+        "id": 114,
+        "title": "12 Angry Men",
+        "genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": 115,
+        "title": "The Imitation Game",
+        "genres": [
+            "Biography",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 116,
+        "title": "Interstellar",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "id": 117,
+        "title": "Big Nothing",
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 118,
+        "title": "Das Boot",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 119,
+        "title": "Shrek 2",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 120,
+        "title": "Sin City",
+        "genres": [
+            "Crime",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 121,
+        "title": "Nebraska",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "id": 122,
+        "title": "Shrek",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 123,
+        "title": "Mr. & Mrs. Smith",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "id": 124,
+        "title": "Original Sin",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Romance"
+        ]
+    },
+    {
+        "id": 125,
+        "title": "Shrek Forever After",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 126,
+        "title": "Before Midnight",
+        "genres": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": 127,
+        "title": "Despicable Me",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 128,
+        "title": "Troy",
+        "genres": [
+            "Adventure"
+        ]
+    },
+    {
+        "id": 129,
+        "title": "The Hobbit: An Unexpected Journey",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 130,
+        "title": "The Great Gatsby",
+        "genres": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": 131,
+        "title": "Ice Age",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 132,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "id": 133,
+        "title": "The Lord of the Rings: The Two Towers",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "id": 134,
+        "title": "Ex Machina",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "id": 135,
+        "title": "The Theory of Everything",
+        "genres": [
+            "Biography",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": 136,
+        "title": "Shogun",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": 137,
+        "title": "Spotlight",
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": 138,
+        "title": "Vertigo",
+        "genres": [
+            "Mystery",
+            "Romance",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 139,
+        "title": "Whiplash",
+        "genres": [
+            "Drama",
+            "Music"
+        ]
+    },
+    {
+        "id": 140,
+        "title": "The Lives of Others",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 141,
+        "title": "Hotel Rwanda",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ]
+    },
+    {
+        "id": 142,
+        "title": "The Martian",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "id": 143,
+        "title": "To Kill a Mockingbird",
+        "genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": 144,
+        "title": "The Hateful Eight",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "id": 145,
+        "title": "A Separation",
+        "genres": [
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "id": 146,
+        "title": "The Big Short",
+        "genres": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ]
+    }
+]
