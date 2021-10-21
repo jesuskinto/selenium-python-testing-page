@@ -46,7 +46,7 @@ function BootstrapModal() {
           Check that the text inside the modal is equal to: <strong>Woohoo, you're reading this text in a modal!</strong>
         </Card.Text>
         <Button variant="primary" onClick={handleShow}>Go somewhere</Button>
-        <Modal show={show} onHide={handleClose}>
+        <Modal id="single-modal" show={show} onHide={handleClose}>
           <Modal.Header closeButton>
             <Modal.Title>Modal heading</Modal.Title>
           </Modal.Header>
@@ -64,11 +64,10 @@ function BootstrapModal() {
           <li>Opening of the modal.</li>
           <li>Set fields (Name, Lastname and Email).</li>
           <li>Save Changes, Changes must be reflected in the user information section.</li>
-          <li>After saving the changes Verify that when opening the modal the form is empty</li>
           <li>Press the clean info button and verify that the user information is cleared.</li>
         </ul>
         <Button variant="primary" size="sm" onClick={handleShowForm}>Open Form</Button>
-        <Modal show={showForm} onHide={handleCloseForm}>
+        <Modal id="form-modal" show={showForm} onHide={handleCloseForm}>
           <Modal.Header closeButton>
             <Modal.Title>Modal Form</Modal.Title>
           </Modal.Header>
@@ -112,10 +111,10 @@ function BootstrapModal() {
         <br />
         <br />
         User Info:
-        <ul>
-          <li>firstname: {user.firstname}</li>
-          <li>lastname: {user.lastname}</li>
-          <li>email: {user.email}</li>
+        <ul className="user-info">
+          <li>firstname: <strong>{user.firstname}</strong></li>
+          <li>lastname: <strong>{user.lastname}</strong></li>
+          <li>email: <strong>{user.email}</strong></li>
         </ul>
         <Button variant="danger" size="sm" onClick={handleCleanUser}>Clean info</Button>
       </Card.Body>

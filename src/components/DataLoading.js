@@ -92,7 +92,7 @@ function DataLoading() {
         }
         <br />
         <h5>List of Movies</h5>
-        <ul>
+        <ul className="list-of-movie">
           {todo.map((item, key) => <li key={key}>{item}</li>)}
         </ul>
       </Card.Body>
