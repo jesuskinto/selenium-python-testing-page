@@ -22,7 +22,7 @@ function SimpleForm() {
           <li>Click on 'Show Message' button to display message entered in input field</li>
         </ul>
         {' '}
-        <input value={message} onChange={e => { toggleShowMessage(false); setMessage(e.target.value) }} />
+        <input id="user-message" value={message} onChange={e => { toggleShowMessage(false); setMessage(e.target.value) }} />
         <br />
         <br />
         <Button variant="primary" onClick={() => toggleShowMessage(true)} >Show Message</Button>
@@ -42,9 +42,9 @@ function SimpleForm() {
           <li>Enter Value for b</li>
           <li>Click on 'Get Total' button to display the sum of two numbers 'a and b'</li>
         </ul>
-        <label>Num 1: <input type="number" value={num1} onChange={e => { toggleShowValue(false); setNum1(e.target.value) }} /></label>
+        <label>Num 1: <input id="sum1" type="number" value={num1} onChange={e => { toggleShowValue(false); setNum1(e.target.value) }} /></label>
         <br />
-        <label>Num 2: <input type="number" value={num2} onChange={e => { toggleShowValue(false); setNum2(e.target.value) }} /></label>
+        <label>Num 2: <input id="sum2" type="number" value={num2} onChange={e => { toggleShowValue(false); setNum2(e.target.value) }} /></label>
         <br />
         <br />
         <Button variant="primary" onClick={() => toggleShowValue(true)} >Get Total</Button>
