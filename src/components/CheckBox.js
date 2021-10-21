@@ -38,13 +38,13 @@ function CheckBox() {
         </Card.Text>
         <label>
           Checkbox:
-          <input type="checkbox" checked={checkboxValue} onChange={() => toggleCheckbox(prevState => !prevState)} />
+          <input id="single-checkbox" type="checkbox" checked={checkboxValue} onChange={() => toggleCheckbox(prevState => !prevState)} />
         </label>
         <div className="message">Message: <span>{checkboxValue ? 'success' : ''}</span></div>
       </Card.Body>
     </Card>
     <br />
-    <Card>
+    <Card className="multiple">
       <Card.Header>CheckBox</Card.Header>
       <Card.Body>
         <Card.Title>Checkboxes</Card.Title>
