@@ -17,7 +17,7 @@ import {
 } from 'react-bootstrap'
 
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Link
