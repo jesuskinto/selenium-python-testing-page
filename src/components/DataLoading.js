@@ -71,7 +71,7 @@ function DataLoading() {
           <li>Validate that the items appear in the list of selected movies.</li>
         </ul>
         <Alert variant="warning">
-          Preferably make use of <strong>Explicit wait</strong> while waiting for the movies to load
+          If you are using <strong>Selenium</strong>, preferably use <strong>explicit wait</strong> while movies load
         </Alert>
 
         <InputGroup className="mb-3">
