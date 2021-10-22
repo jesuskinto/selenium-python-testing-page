@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Card, Dropdown, InputGroup, FormControl } from 'react-bootstrap'
+import { Card, Dropdown, InputGroup, FormControl, Alert } from 'react-bootstrap'
 const movies = require('../movies.json')
 const DEBOUNCE_TIME = 100
 
@@ -70,6 +70,10 @@ function DataLoading() {
           <li>Search and select movies: <strong>WALL·E, Interstellar and Ratatouille</strong>.</li>
           <li>Validate that the items appear in the list of selected movies.</li>
         </ul>
+        <Alert variant="warning">
+          Preferably make use of <strong>Explicit wait</strong> while waiting for the movies to load
+        </Alert>
+
         <InputGroup className="mb-3">
           <FormControl
             aria-label="Recipient's username"
