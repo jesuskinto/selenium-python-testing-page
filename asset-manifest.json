@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/selenium-python-testing-page/static/css/main.ff55ab96.chunk.css",
-    "main.js": "/selenium-python-testing-page/static/js/main.21337732.chunk.js",
-    "main.js.map": "/selenium-python-testing-page/static/js/main.21337732.chunk.js.map",
+    "main.js": "/selenium-python-testing-page/static/js/main.decffaf5.chunk.js",
+    "main.js.map": "/selenium-python-testing-page/static/js/main.decffaf5.chunk.js.map",
     "runtime-main.js": "/selenium-python-testing-page/static/js/runtime-main.a63d8715.js",
     "runtime-main.js.map": "/selenium-python-testing-page/static/js/runtime-main.a63d8715.js.map",
     "static/css/2.043ecea2.chunk.css": "/selenium-python-testing-page/static/css/2.043ecea2.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.043ecea2.chunk.css",
     "static/js/2.f71ec7e4.chunk.js",
     "static/css/main.ff55ab96.chunk.css",
-    "static/js/main.21337732.chunk.js"
+    "static/js/main.decffaf5.chunk.js"
   ]
 }
