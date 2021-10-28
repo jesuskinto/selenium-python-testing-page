@@ -68,7 +68,7 @@ function DataLoading() {
         <Card.Title>Search and add Movie</Card.Title>
         <ul>
           <li>Search and select movies: <strong>WALL·E, Interstellar and Ratatouille</strong>.</li>
-          <li>Validate that the items appear in the list of selected movies.</li>
+          <li>Validate that the items appear in the <strong>list of movies.</strong></li>
         </ul>
         <Alert variant="warning">
           If you are using <strong>Selenium</strong>, preferably use <strong>explicit wait</strong> while movies load
